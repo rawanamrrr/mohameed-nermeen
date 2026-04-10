@@ -1,0 +1,5 @@
+# API routes
+/api/*  /.netlify/functions/:splat  200
+
+# Client-side routing for Next.js
+/*  /index.html  200
